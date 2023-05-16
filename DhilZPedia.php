@@ -752,7 +752,7 @@ section .wrap
 			
 			<div class="wrap">
 			<div class="textBox">
-				<h1><center>Nextnesia Hosting</a></center></h1>
+				<h1><center>Dhilz Pedia</a></center></h1>
 				
 				<span id="by"></span>
 			</div>
