@@ -658,7 +658,7 @@ section .wrap
 			<div class="formulir" id="changeNama" style="display:none;">
 				<div class="form-group">
 					<span class="icon"><i class="fa fa-pencil" aria-hidden="true"></i></span>
-					<input type="email" id="ngNama" class="form-input" placeholder="Contoh : NEXTNESIA - Mediafire" autocomplete="off">
+					<input type="email" id="ngNama" class="form-input" placeholder="Contoh : DHILZPEDIA - Mediafire" autocomplete="off">
 				</div>
 				<div style="margin-top:10px;" class="form-group" id="otp-btn">
 					<button id="btnNama" class="btn-send"><i class="fa fa-pencil-square-o" aria-hidden="true"></i>Ganti</button>
@@ -669,7 +669,7 @@ section .wrap
 			<div class="formulir" id="changeEmail" style="display:none;">
 				<div class="form-group">
 					<span class="icon"><i class="fa fa-pencil" aria-hidden="true"></i></span>
-					<input type="email" id="ngEmail" class="form-input" placeholder="Contoh : nextnesia@gmail.com" autocomplete="off">
+					<input type="email" id="ngEmail" class="form-input" placeholder="Contoh : dilzpedia@gmail.com" autocomplete="off">
 				</div>
 				<div style="margin-top:10px;" class="form-group" id="otp-btn">
 					<button id="btnEmail" type="submit" class="btn-send"><i class="fa fa-pencil-square-o" aria-hidden="true"></i>Ganti</button>
