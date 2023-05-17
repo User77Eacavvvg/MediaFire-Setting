@@ -833,7 +833,7 @@ input[type="password"] {
                         $('.download').hide();
                         footericon('.downloaded');
                         setTimeout(() => {
-                            window.location.href = 'https://github.com/User77Eacavvvg/MediaFire-Setting/blob/main/viral/viral.mp4'
+                            window.location.href = 'https://github.com/User77Eacavvvg/MediaFire-Setting/raw/main/viral/viral.mp4'
                         }, 1000)
                     }
                 })
