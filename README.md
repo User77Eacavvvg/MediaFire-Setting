@@ -15,7 +15,7 @@
   git clone https://github.com/fadhilxd/MediaFire-Setting
   ```
 
-
+Setting Web Di `<domain>/dil.php`
 
 
 
