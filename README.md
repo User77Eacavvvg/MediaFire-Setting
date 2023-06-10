@@ -18,6 +18,11 @@
 Setting Web Di `<domain>/dil.php`
 
 
+# Deploy To Replit
+
+[![Run on Repl.it](https://repl.it/badge/github/fadhilxd/MediaFire-Setting)](https://replit.com)
+
+
 
 ## ```Connect with me```
 
